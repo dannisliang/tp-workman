@@ -5,9 +5,8 @@ class SockController extends Controller {
     public function index(){
     	$content = '你是傻子!';
     	$url = "http://localhost:2121?type=publish&to=&content=".$content;
-    	$info = $this->http_curl($url); 
+    	$info = $this->http_curl($url);
     	dump($info);exit;
-    	$this->display();
     }
 
      /**

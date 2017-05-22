@@ -654,3 +654,470 @@ INFO: [ app_begin ] --START--
 INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000743s ]
 INFO: [ app_begin ] --END-- [ RunTime:0.000814s ]
 
+[ 2017-05-22T22:29:43+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003817s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001457s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001574s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.008819s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.008952s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080242s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000970s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-05-22T22:36:34+08:00 ] 127.0.0.1 /tp-workman/index.php/home/sock/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.045150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.045339s ]
+ERR: 模板不存在:./Application/Home/View/Sock/index.html
+
+[ 2017-05-22T22:37:23+08:00 ] 127.0.0.1 /tp-workman/index.php/home/sock/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000757s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.021912s ]
+INFO: [ app_end ] --END-- [ RunTime:0.022089s ]
+
+[ 2017-05-22T22:37:25+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.152613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.152708s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.013011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013078s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000632s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000675s ]
+
+[ 2017-05-22T22:37:32+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006688s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-05-22T22:37:32+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007311s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007383s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2017-05-22T22:37:33+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000857s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008850s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008929s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000886s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000949s ]
+
+[ 2017-05-22T22:37:34+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000824s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009138s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000320s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000491s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000526s ]
+
+[ 2017-05-22T22:37:34+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000060s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005540s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005590s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-05-22T22:37:35+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000503s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000666s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006854s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000628s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-05-22T22:37:35+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000518s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000802s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000860s ]
+
+[ 2017-05-22T22:37:35+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000951s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010812s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010891s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000316s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000562s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000607s ]
+
+[ 2017-05-22T22:37:36+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007203s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000590s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000632s ]
+
+[ 2017-05-22T22:37:36+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000664s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000709s ]
+
+[ 2017-05-22T22:37:36+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000199s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000347s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-05-22T22:37:37+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005463s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000266s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-05-22T22:37:37+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000943s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001275s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000115s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010428s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000552s ]
+
+[ 2017-05-22T22:37:37+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006878s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006946s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000620s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000664s ]
+
+[ 2017-05-22T22:37:37+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007221s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000381s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000607s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-05-22T22:37:38+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000749s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000144s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007741s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007814s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000409s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000788s ]
+
+[ 2017-05-22T22:37:38+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007161s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2017-05-22T22:37:39+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001583s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000163s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014096s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001251s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001341s ]
+
+[ 2017-05-22T22:37:44+08:00 ] 127.0.0.1 /tp-workman/index.php/home/sock/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000820s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000891s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001555s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001722s ]
+
+[ 2017-05-22T22:38:05+08:00 ] 127.0.0.1 /tp-workman/index.php/home/sock/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+
+[ 2017-05-22T22:38:08+08:00 ] 127.0.0.1 /tp-workman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000799s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007656s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000641s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000686s ]
+
+[ 2017-05-22T23:22:43+08:00 ] 127.0.0.1 /tp-workman/index.php/home/sock/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001365s ]
+

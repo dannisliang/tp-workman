@@ -2,16 +2,16 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<link href="/thinkphp&workerman/Public/Home/css/main.css" rel="stylesheet" type="text/css" />
+<link href="/tp-workman/Public/Home/css/main.css" rel="stylesheet" type="text/css" />
 <script src='//cdn.bootcss.com/socket.io/1.3.7/socket.io.js'></script>
 <script src='//cdn.bootcss.com/jquery/1.11.3/jquery.js'></script>
-<script src='/thinkphp&workerman/Public/Home/js/notify.js'></script>
+<script src='/tp-workman/Public/Home/js/notify.js'></script>
 </head>
 <body>
 
 <div class="notification sticky hide">
     <p id="content"> </p>
-    <a class="close" href="javascript:"> <img src="/thinkphp&workerman/Public/Home/images/icon-close.png" /></a>
+    <a class="close" href="javascript:"> <img src="/tp-workman/Public/Home/images/icon-close.png" /></a>
 </div>
 <div class="wrapper">
     <div style="width:850px;">
