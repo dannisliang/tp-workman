@@ -1,0 +1,38 @@
+[ 2017-07-03T15:16:23+08:00 ] 10.0.2.2 /thinkphp&workerman/index.php?s=/Home/goods/diamon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.037408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.037527s ]
+ERR: 无法加载控制器:Goods
+
+[ 2017-07-03T15:16:32+08:00 ] 10.0.2.2 /thinkphp&workerman/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.017854s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.017978s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.367734s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.367841s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.037377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.037464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.026627s ]
+INFO: [ app_end ] --END-- [ RunTime:0.026696s ]
+
+[ 2017-07-03T15:17:18+08:00 ] 10.0.2.2 /thinkphp&workerman/index.php?s=/Home/goods/diamon
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006020s ]
+ERR: 无法加载控制器:Goods
+

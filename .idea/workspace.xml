@@ -1,23 +1,310 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+    <list default="true" id="8f1006f2-e31a-4ea0-a677-06680309a80e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/composer/ClassLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/composer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/composer/autoload_classmap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/composer/autoload_namespaces.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/composer/autoload_psr4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/composer/autoload_real.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/composer/autoload_static.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/composer/installed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/docs/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/docs/zh/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/socket.io-client/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/socket.io-client/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/socket.io-client/lib/manager.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/socket.io-client/lib/on.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/socket.io-client/lib/socket.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/socket.io-client/lib/url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/socket.io-client/socket.io.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/public/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/start_for_win.bat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/start_io.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/examples/chat/start_web.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/ChannelAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Client.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Debug.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/DefaultAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Engine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Protocols/Http/Request.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Protocols/Http/Response.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Protocols/SocketIO.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Protocols/WebSocket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Protocols/WebSocket/RFC6455.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Socket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Transport.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Transports/Polling.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Transports/PollingJsonp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Transports/PollingXHR.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Engine/Transports/WebSocket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Event/Emitter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Nsp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Parser/Decoder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Parser/Encoder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Parser/Parser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/Socket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/SocketIO.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/src/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/phpsocket.io-for-win/tests/emitter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Autoloader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Connection/AsyncTcpConnection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Connection/AsyncUdpConnection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Connection/ConnectionInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Connection/TcpConnection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Connection/UdpConnection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/Ev.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/Event.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/EventInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/Libevent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/React.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/React/ExtEventLoop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/React/LibEventLoop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/React/StreamSelectLoop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Events/Select.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Lib/Constants.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Lib/Timer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Protocols/Frame.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Protocols/Http.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Protocols/Http/mime.types" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Protocols/ProtocolInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Protocols/Text.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Protocols/Websocket.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Protocols/Ws.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/WebServer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/Worker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/workerman/workerman-for-win/composer.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/tp-workman.iml" afterPath="$PROJECT_DIR$/.idea/tp-workman.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" afterPath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" afterPath="$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="IndexController.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ThinkPHP/Common/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="515">
+              <caret line="1100" column="37" lean-forward="true" selection-start-line="1100" selection-start-column="37" selection-end-line="1100" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Core.php" pinned="false" current-in-tab="true">
+        <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/Core.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="432" column="7" lean-forward="true" selection-start-line="432" selection-start-column="7" selection-end-line="432" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;795c6855-912e-4a31-aa8c-1503bbc42ff1&gt;/Application/Home/View/default/Saleman/addclass.html" />
+        <option value="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="1924" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinkphp&amp;workerman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thinkphp&amp;workerman" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wechat" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="8f1006f2-e31a-4ea0-a677-06680309a80e" name="Default" comment="" />
       <created>1495463567283</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1495463567283</updated>
+      <workItem from="1495511351585" duration="8271000" />
+      <workItem from="1495587114043" duration="1461000" />
+      <workItem from="1495610274840" duration="813000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10545000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="0" width="1924" height="1056" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21907757" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.110587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -25,5 +312,73 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Script/vendor/workerman/workerman-for-win/Connection/TcpConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1281">
+          <caret line="525" column="83" lean-forward="true" selection-start-line="525" selection-start-column="31" selection-end-line="525" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Script/vendor/workerman/workerman-for-win/Worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Script/vendor/workerman/phpsocket.io-for-win/src/SocketIO.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="96" column="15" lean-forward="false" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Script/vendor/workerman/phpsocket.io-for-win/examples/chat/public/socket.io-client/socket.io.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="766" column="39" lean-forward="false" selection-start-line="766" selection-start-column="39" selection-end-line="766" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Script/start_io.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="46" column="55" lean-forward="true" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ThinkPHP/Common/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="1100" column="37" lean-forward="true" selection-start-line="1100" selection-start-column="37" selection-end-line="1100" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/Core.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="432" column="7" lean-forward="true" selection-start-line="432" selection-start-column="7" selection-end-line="432" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
